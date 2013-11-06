@@ -10,7 +10,7 @@
  * @license  http://www.gnu.org/copyleft/lesser.html LGPL
  * @link     http://pear.php.net/package/Date_HumanDiff
  */
-require_once 'Date/HumanDiff/Locale.php';
+//require_once 'Date/HumanDiff/Locale.php';
 
 /**
  * Abstract implementation of the locale/translation interface that
