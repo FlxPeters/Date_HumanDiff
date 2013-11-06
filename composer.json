@@ -1,0 +1,8 @@
+{
+    "name": "wichteldesign/date_humanDiff",
+    "version": "1.0.0",
+    "dist": {
+        "url": "https://github.com/Wichteldesign/Date_HumanDiff/archive/dev-composer.zip",
+        "type": "zip"
+    }
+}
