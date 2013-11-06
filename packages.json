@@ -1,0 +1,7 @@
+{
+    "packages": {
+        "wichteldesign/date_humanDiff": {
+            "dev-composer": { @composer.json },
+        }
+    }
+}
