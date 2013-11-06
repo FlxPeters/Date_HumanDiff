@@ -1,6 +1,14 @@
 **************
 Date_HumanDiff
 **************
+
+
+Fork of Date_HumanDiff
+======================
+
+This is a Fork of the original Pear Repository to make the Lib available via Composer
+
+
 Generate textual time differences that are easily understandable by humans.
 
 The class supports minutes, hours, days, weeks, months and years.
